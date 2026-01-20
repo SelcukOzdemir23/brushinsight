@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal Ortamlar (Virtual Environments)
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+
+# Model ve Veri (Büyük dosyaları git'e atmamak için)
+# Eğer modelleri Hugging Face'de tutuyorsan buraya ekleyebilirsin, ama projede kalmasını istiyorsan yorum satırı yap.
+# *.keras
+# *.h5
+# dataset/
+artist_model.keras
