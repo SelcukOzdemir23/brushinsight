@@ -94,5 +94,4 @@ Bu proje **Müşerref Selçuk Özdemir** tarafından hazırlanmıştır.
 
 ## 🔗 Bağlantılar
 
-*   [GitHub Reposu](https://github.com/muserrefselcukozdemir/brushinsight)
 *   [Hugging Face Demo](https://huggingface.co/spaces/muserrefselcukozdemir/brushinsight)
