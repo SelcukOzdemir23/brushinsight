@@ -76,7 +76,7 @@ pip install -r requirements.txt
 python app/app.py
 
 ## 📂 Dosya Yapısı
-
+```bash
 BrushInsight/
 ├── app/
 │   ├── app.py                # Gradio arayüz kodu
@@ -87,7 +87,7 @@ BrushInsight/
 ├── models/                   # Model yedekleri
 ├── requirements.txt          # Kütüphane listesi
 └── README.md                 # Proje dökümantasyonu
-
+```
 ## 👥 Emeği Geçenler
 
 Bu proje **Müşerref Selçuk Özdemir** tarafından hazırlanmıştır.
